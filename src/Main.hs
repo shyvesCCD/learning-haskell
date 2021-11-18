@@ -5,6 +5,7 @@ somatoria = sum
 
 f :: Double -> Double -> Double
 f x y = z+w
+
   where z = g x
         w = y+y
         g x' = x'*3
